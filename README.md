@@ -8,7 +8,9 @@ We collected data on 1406 products. Of these, we have extracted CO2e data on 491
 
 Most of this data was sourced directly from product manufacturers, many of whom make this data available in order to secure environmental accreditation, such as EPEAT ecolabels. Other sources include academic papers—primarily papers published in peer-reviewed journals—and public bodies, such as the French Environment and Energy Management Agency (ADEME).
 
-For each category, we extracted data from as many products as possible, ensuring we achieved as representative a sample as we could. From these, we calculated an average product weight and pre-use CO2e value for each category. We then evaluated the data availability and data quality for every category using the definitions in the key below.							
+For each category, we extracted data from as many products as possible, ensuring we achieved as representative a sample as we could. From these, we calculated an average product weight and pre-use CO2e value for each category. We then evaluated the data availability and data quality for every category using the definitions in the key below.	
+
+See [methodology](methodology.md) for details on the methodology.
 
 ## Licensing
 
