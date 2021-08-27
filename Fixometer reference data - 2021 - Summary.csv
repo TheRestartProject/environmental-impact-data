@@ -1,12 +1,3 @@
-,,,,,,,,,,,,,,,,,
-,Summary,,,,,,,,,,,,,,,,
-,"We collected data on 1406 products. Of these, we have extracted CO2e data on 491 products and product weight data on 824 products. Our focus was on lifecycle assessment (LCA) and Product Carbon Footprint (PCF) reports, as these contained the richest data. However, much of the source data did not contain relevant CO2e or product weight data. The categories of product are based on those defined in the Open Repair Data Standard (ORDS), with the addition of a few unpowered product categories.
-
-Most of this data was sourced directly from product manufacturers, many of whom make this data available in order to secure environmental accreditation, such as EPEAT ecolabels. Other sources include academic papers—primarily papers published in peer-reviewed journals—and public bodies, such as the French Environment and Energy Management Agency (ADEME).
-
-For each category, we extracted data from as many products as possible, ensuring we achieved as representative a sample as we could. From these, we calculated an average product weight and pre-use CO2e value for each category. We then evaluated the data availability and data quality for every category using the definitions in the key below.",,,,,,,,,,,,,,,,
-,Last updated: 20/08/2021,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
 ,PRODUCT CATEGORY,No. products with source data,"No. Products 
 with CO2e data extracted","No. Products 
 with weight data extracted",Average product weight (kg),Average product pre-use CO2e (kg),Data quality score,Data availability (CO2e),Data quality (CO2e),Previous data quality rating,Change in DQI,Previous data availability rating,Change in data availablity,,Key: Data availability & Data quality index (DQI) ranking,,
