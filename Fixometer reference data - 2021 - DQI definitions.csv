@@ -1,0 +1,17 @@
+,,
+,Data Quality Index (DQI),
+,Technical representativeness,Score
+,Very Good - Data is highly representative of its device category,4
+,Good - Data is fairly representative of its device category,3
+,Fair - Data is for a product with similar composition to its device category,2
+,Poor - Data is not similar to its device category,1
+,Temporal representativeness,Score
+,Very Good - Data less than 3 years old,4
+,Good - Data less than 5 years old,3
+,Fair - Data less than 10 years old,2
+,Poor - Data more than 10 years old,1
+,Reliability,Score
+,Very Good - Verified (reviewed) by third party and based on primary (manufacturer specific) data,4
+,Good - Either verified (reviewed) by a third party but based upon secondary data; or primary data but not verified by third party,3
+,"Fair - Non-verified data partly based on assumptions or a qualified estimate (e.g., by sector expert)",2
+,Poor - Non-qualified estimate,1
